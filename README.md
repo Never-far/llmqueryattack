@@ -1,5 +1,5 @@
 # LLMQueryAttack
-This is the repository that contains project website source code for the [llmqueryattack]() website. You can refer our work by [QueryAttack](https://github.com/horizonsinzqs/QueryAttack).
+This is the repository that contains project website source code for the [llmqueryattack](https://never-far.github.io/llmqueryattack/) website. You can refer our work by [QueryAttack](https://github.com/horizonsinzqs/QueryAttack).
 
 If you find QueryAttack useful for your work please cite:
 ```
